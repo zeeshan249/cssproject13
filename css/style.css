@@ -1,0 +1,152 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav{
+    margin-top: 57px;
+}
+.nav li{
+    list-style-type: none;
+}
+.logo{
+    
+    margin: 54px 30px 0px 30px;
+    color:#fff;
+}
+.logo img{
+    margin-left: 85px;
+}
+.navbar{
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    background: #5A20CB;
+    height: 98vh;
+}
+.container {
+   
+    margin: 0 auto;
+    padding: 0 30px;
+  }
+  .navbar .container{
+    display: flex;
+    justify-content: space-between;
+  
+    align-items: center;
+ margin-right: 100px;
+ 
+  }
+  .navbar a{
+    color:#fff;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: normal;
+
+  }
+  .navbar ul{
+    display: flex;
+ 
+  
+  }
+  .navbar ul li{
+    margin-left: 60px;
+  }
+
+  .signin-btn{
+    background-color: #23C4ED;
+    margin-top: -10px;
+  margin-left: 150px;
+  margin-right: 120px;
+    text-decoration: none;
+    color: #fff;
+    
+ 
+    padding: 10px 40px 10px 40px;
+    border: 2px solid #23C4ED;
+    font-weight: normal;
+    text-transform: uppercase;
+    box-shadow:  #fff;
+ 
+    border-radius: 5px;
+  }
+  .nav-img{
+ 
+    height: 75vh;
+  }
+
+  .navbar-extend .container{
+    display: flex;
+    flex-direction: row-reverse;
+   
+  
+  }
+  .navbar-right{
+    margin-left: 270px;
+   
+    display: flex;
+   
+    justify-content: flex-end;
+    flex-direction: column;
+ 
+ width: 60vh;
+   margin-bottom: 80px;
+
+  }
+  .navbar-right h1{
+    width: 80vh;
+    font-size: 50px;
+    line-height: 1em;
+    color:#ffffff;
+  }
+  .navbar-right h4{
+    width: 80vh;
+    margin-top: 28px;
+    width: 80vh;
+    color: #9aa9aa;
+    font-size: 19px;
+    line-height: 1.4em;
+    font-weight: normal;
+  }
+  input[type="text"] {
+    margin-left: -200px;
+    margin-top: 40px;
+    height: 53px;
+    width: 400px;
+}
+.second-section{
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+    height:80vh;
+}
+.second-right-section{
+    margin-bottom: 190px;
+    margin-left: 250px;
+}
+.second-right-section h1{
+    margin-top: 170px;
+    margin-bottom: 40px;
+}
+.second-right-section h4{
+    margin-bottom: 20px;
+    margin-left: 40px;
+    font-size: 23px;
+}
+.second-right-section h5{
+    margin-bottom: 50px;
+    margin-left: 70px;
+    font-weight: normal;
+    color: #242B2E;
+}
+.color1{
+    color: #EDC126;
+}
+.color2{
+    color: #3DBE29;
+}
+.color3{
+    color:#23C4ED
+}
