@@ -9,9 +9,8 @@
 
 HTML, CSS
 
-- learned basics about how to align elements using litte positining and mostly css margin padding
-- learned about using text align and flexbox 
-- how to indent and color certain part of a text
+- learned about designing cards and how to align items in them
+- used flexbox row reverse to align items 
 
 ## Feedback
 
@@ -21,4 +20,4 @@ HTML, CSS
 ## Project Link
 
 
-[![badge](https://img.shields.io/badge/Click-here-brightgreen)](https://project4syedhtml.netlify.app/)
+[![badge](https://img.shields.io/badge/Click-here-brightgreen)](https://project13syedhtml.netlify.app/)
